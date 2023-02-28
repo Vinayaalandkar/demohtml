@@ -1,0 +1,10 @@
+.navigation{
+    height: 50vh;
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    font-family: cursive;
+    font-weight: 900;
+}
